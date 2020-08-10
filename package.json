@@ -391,6 +391,18 @@
           "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
         }
       },
+      "query-string": {
+        "^6.0.0": {
+          "version": "^6.0.0",
+          "reason": "see https://github.com/sindresorhus/query-string/blob/597f14a/index.js#L8:31"
+        }
+      },
+	    "better-xlsx": {
+        "^0.7.5": {
+          "version": "^0.7.5",
+          "reason": "see https://github.com/d-band/better-xlsx/blob/master/src/index.js#L3"
+        }
+      },
       "tslib": {
         "^1.11.0": {
           "version": "^1.11.0",
